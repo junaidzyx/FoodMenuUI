@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Food Panda</string>
+    <string name="SelectedTag">Popular</string>
+</resources>
